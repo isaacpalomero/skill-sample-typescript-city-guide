@@ -9,7 +9,7 @@
             "Alexa tell city guide i'm hungry",
             "Alexa ask city guide to give me an activity"
           ],
-          "name": "skill-sample-nodejs-city-guide",
+          "name": "skill-sample-typescript-city-guide",
           "description": "Ask an expert for a recommendation on what to do in your city. You can even ask for tips within a specific distance."
         }
       },
@@ -22,7 +22,7 @@
       "custom": {
         "endpoint": {
           "sourceDir": "lambda/custom",
-          "uri": "ask-custom-skill-sample-nodejs-city-guide-default"
+          "uri": "ask-custom-skill-sample-typescript-city-guide-default"
         }
       }
     },
